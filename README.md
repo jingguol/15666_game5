@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Maze
 
-Author: (TODO: your name)
+Author: Jingguo Liang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Try escape this maze!
 
 Screen Shot:
 
@@ -10,9 +10,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+wasd to move, mouse motion looks
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: All assets are original.
 
-This game was built with [NEST](NEST.md).
+This game was built on Windows, with [NEST](NEST.md).
 
